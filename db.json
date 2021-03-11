@@ -1,0 +1,43 @@
+[
+    {
+      "id" : 1,
+      "name" : "Justin Varela",
+      "username" : "jvc2402",
+      "email" : "justinvaco07@gmail.com",
+      "title" : "React Desde Cero",
+      "poster": "https://www.freecodecamp.org/news/content/images/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png",
+      "precio": "25 USD",
+      "profesor": "Justin Varela"
+    },
+    {
+      "id" : 2,
+      "name" : "Justin Varela",
+      "username" : "jvc2402",
+      "email" : "justinvaco07@gmail.com",
+      "title" : "Nutricion",
+      "poster": "https://www.infisport.com/media/amasty/blog/ALIMENTACIONvsNUTRICION.jpg",
+      "precio": "10 USD",
+      "profesor": "Justin Varela"
+    },
+    {
+      "id" : 3,
+      "name" : "Justin Varela",
+      "username" : "jvc2402",
+      "email" : "justinvaco07@gmail.com",
+      "title" : "Java desde cero",
+      "poster": "https://i.blogs.es/53044d/java/1366_521.jpg",
+      "precio": "40 USD",
+      "profesor": "Justin Varela"
+    },
+    {
+      "id" : 4,
+      "name" : "Justin Varela",
+      "username" : "jvc2402",
+      "email" : "justinvaco07@gmail.com",
+      "title" : "Node JS Desde cero",
+      "poster": "https://s3-us-west-2.amazonaws.com/devcodepro/media/tutorials/middlewares-en-nodejs-t1.jpg",
+      "precio": "35 USD",
+      "profesor": "Justin Varela"
+    }
+
+]
