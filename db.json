@@ -1,4 +1,5 @@
-[
+{
+    "cursos" : [
     {
       "id" : 1,
       "name" : "Justin Varela",
@@ -40,4 +41,5 @@
       "profesor": "Justin Varela"
     }
 
-]
+    ]
+}
