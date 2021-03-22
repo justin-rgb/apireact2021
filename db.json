@@ -39,7 +39,37 @@
       "poster": "https://s3-us-west-2.amazonaws.com/devcodepro/media/tutorials/middlewares-en-nodejs-t1.jpg",
       "precio": "35 USD",
       "profesor": "Justin Varela"
-    }
+    },
 
+    {
+      "id" : 5,
+      "name" : "Justin Varela",
+      "username" : "jvc2402",
+      "email" : "justinvaco07@gmail.com",
+      "title" : "Curso de Cocina",
+      "poster": "https://www.claraavilac.com/wp-content/uploads/2016/12/cursos-de-cocina.jpg",
+      "precio": "20 USD",
+      "profesor": "Chef Rafael"
+    },
+    {
+      "id" : 6,
+      "name" : "Justin Varela",
+      "username" : "jvc2402",
+      "email" : "justinvaco07@gmail.com",
+      "title" : "SQL Para Principiantes",
+      "poster": "https://mundocursos.online/wp-content/uploads/2020/06/Cursos-de-SQL-390x200.png",
+      "precio": "60 USD",
+      "profesor": "Justin Varela"
+    },
+    {
+      "id" : 7,
+      "name" : "Justin Varela",
+      "username" : "jvc2402",
+      "email" : "justinvaco07@gmail.com",
+      "title" : "Kotlin Desde Cero",
+      "poster": "https://www.atsistemas.com/dam/jcr:5f77ecad-cc89-4db1-a1c5-6e7de4c16747/kotlin-lenguaje-programacion-1375-760.png",
+      "precio": "35 USD",
+      "profesor": "Justin Varela"
+    }
     ]
 }
