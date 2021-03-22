@@ -70,6 +70,16 @@
       "poster": "https://www.atsistemas.com/dam/jcr:5f77ecad-cc89-4db1-a1c5-6e7de4c16747/kotlin-lenguaje-programacion-1375-760.png",
       "precio": "35 USD",
       "profesor": "Justin Varela"
+    },
+    {
+      "id" : 8,
+      "name" : "Justin Varela",
+      "username" : "jvc2402",
+      "email" : "justinvaco07@gmail.com",
+      "title" : "Danza Contemporanea",
+      "poster": "https://i0.wp.com/decursosgratis.com/wp-content/uploads/2017/05/Cursos-gratis-de-baile.jpg?resize=1024%2C457&ssl=1",
+      "precio": "8 USD",
+      "profesor": "Justin Varela"
     }
     ]
 }
